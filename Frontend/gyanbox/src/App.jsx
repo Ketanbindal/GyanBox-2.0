@@ -1,10 +1,10 @@
 import React from "react";
-import Dashboard from "./pages/Dashboard";
+import Preregister from "./pages/Preregister";
 
 const App = () => {
   return (
     <div className="">
-      <Dashboard />
+      <Preregister />
     </div>
   );
 };
